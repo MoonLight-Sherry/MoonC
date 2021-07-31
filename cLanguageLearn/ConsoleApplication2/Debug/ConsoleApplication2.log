@@ -1,0 +1,3 @@
+﻿  LINK : 没有找到 C:\Users\86135\source\repos\cLanguageLearn\Debug\swap.exe 或上一个增量链接没有生成它；正在执行完全链接
+Debug\swap.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  ConsoleApplication2.vcxproj -> C:\Users\86135\source\repos\cLanguageLearn\Debug\swap.exe

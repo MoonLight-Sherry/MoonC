@@ -1,0 +1,7 @@
+﻿  OutputExtreme.cpp
+c:\users\86135\source\repos\clanguagelearn\outputextreme\outputextreme.cpp(16): error C2440: “初始化”: 无法从“int”转换为“int *”
+  c:\users\86135\source\repos\clanguagelearn\outputextreme\outputextreme.cpp(16): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\86135\source\repos\clanguagelearn\outputextreme\outputextreme.cpp(17): error C2440: “初始化”: 无法从“int”转换为“int *”
+  c:\users\86135\source\repos\clanguagelearn\outputextreme\outputextreme.cpp(17): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\users\86135\source\repos\clanguagelearn\outputextreme\outputextreme.cpp(20): error C2664: “void sort(int *,int *,int *)”: 无法将参数 1 从“int”转换为“int *”
+  c:\users\86135\source\repos\clanguagelearn\outputextreme\outputextreme.cpp(20): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
