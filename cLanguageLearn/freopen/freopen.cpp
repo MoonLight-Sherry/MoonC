@@ -3,11 +3,13 @@
 #include "freopenTest.h"
 #include <iostream>
 
-int main()
+int maino()
 {
-	doubleError();
+	stringTest();
+	//doubleError();
 	//reopenTest();
 //    std::cout << "Hello World!\n";
+	return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
