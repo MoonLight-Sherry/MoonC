@@ -1,6 +1,7 @@
-//#include <stdio.h>
 #include <cstdio>
 #include "freopenTest.h"
+
+using namespace std;
 
 int doubleError()
 {
