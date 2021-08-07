@@ -18,5 +18,8 @@
     <ClCompile Include="StringLearn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stringTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
