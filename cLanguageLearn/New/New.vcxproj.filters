@@ -15,28 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="freopen.cpp">
+    <ClCompile Include="New.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="freopenTest.cpp">
+    <ClCompile Include="myclass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="doubleError.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="stringLearn.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="tem[late.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="TemplateClass.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="freopenTest.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

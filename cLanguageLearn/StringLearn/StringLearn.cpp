@@ -1,13 +1,11 @@
-// TestPlusOneself.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// StringLearn.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 
 int maino()
 {
-	int count = 1;
-
-    std::cout << count++ << count++ << count++;	//output is "3, 2, 1" !
+    std::cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
