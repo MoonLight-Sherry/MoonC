@@ -1,3 +1,6 @@
+#include <algorithm>
+
+using namespace std;
 
 void qsort(int v[], int left, int right)
 {
