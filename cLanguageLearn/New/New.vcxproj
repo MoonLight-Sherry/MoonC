@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{93136B09-D278-4231-8B29-CAF959399B98}</ProjectGuid>
+    <ProjectGuid>{5ED5B802-25EC-40FB-9EF2-4AB0613F6720}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>freopen</RootNamespace>
+    <RootNamespace>New</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,15 +151,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="doubleError.cpp" />
-    <ClCompile Include="freopen.cpp" />
-    <ClCompile Include="freopenTest.cpp" />
-    <ClCompile Include="stringLearn.cpp" />
-    <ClCompile Include="TemplateClass.cpp" />
-    <ClCompile Include="tem[late.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="freopenTest.h" />
+    <ClCompile Include="myclass.cpp" />
+    <ClCompile Include="New.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
