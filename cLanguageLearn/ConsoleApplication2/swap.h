@@ -1,1 +1,3 @@
-void swap(int *, int *);
+#pragma once
+
+void swap(int* a, int* b);
