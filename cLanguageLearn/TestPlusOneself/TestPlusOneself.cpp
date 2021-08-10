@@ -8,6 +8,7 @@ int maino()
 	int count = 1;
 
     std::cout << count++ << count++ << count++;	//output is "3, 2, 1" !
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

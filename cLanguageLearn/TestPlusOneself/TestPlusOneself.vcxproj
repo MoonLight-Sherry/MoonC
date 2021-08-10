@@ -158,6 +158,7 @@
     <ClCompile Include="VirtualTest.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Box.h" />
     <ClInclude Include="initialClassLearn.h" />
     <ClInclude Include="Book.h" />
     <ClInclude Include="VirtualTest.h" />
