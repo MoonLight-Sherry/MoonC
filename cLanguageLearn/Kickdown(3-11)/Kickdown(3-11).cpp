@@ -10,13 +10,15 @@ int main()
 	int a2[105];
 	int n1 = 0;
 	int n2 = 0;
-	char c;
+	int c;
 	int p = 0,q = 0;
 	int temp;
 
+	
+
 	while ((c = getchar()) != '\n')
 	{
-		cin >> a1[p++];//怎么输入单个数字？
+		//a1[p++] = (int) c;//怎么输入单个数字？
 	}
 
 	while ((c = getchar()) != '\n')
