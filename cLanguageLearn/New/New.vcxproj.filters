@@ -15,19 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stringLen.cpp">
+    <ClCompile Include="New.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="strlen.cpp">
+    <ClCompile Include="myclass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="AnyType.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="strlen.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

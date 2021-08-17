@@ -1,18 +1,15 @@
-﻿// ConsoleApplication2.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+﻿// freopen.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
+#include "freopenTest.h"
+#include <iostream>
 
-#include <cstdio>
-#include "swap.h"
-
-int main()
+int maino()
 {
-	int p = 1;
-	int q = 2;
-	int *pp = &p;
-	int *qq = &q;
-
-	swap(pp, qq);
-	printf("p is: %i,  q is: %i", p, q);
+	stringTest();
+	//doubleError();
+	//reopenTest();
+//    std::cout << "Hello World!\n";
+	return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

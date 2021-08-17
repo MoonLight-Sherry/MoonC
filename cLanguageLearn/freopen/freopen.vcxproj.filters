@@ -15,18 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stringLen.cpp">
+    <ClCompile Include="freopen.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="strlen.cpp">
+    <ClCompile Include="freopenTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="AnyType.cpp">
+    <ClCompile Include="doubleError.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringLearn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tem[late.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateClass.cpp">
+      <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="strlen.h">
+    <ClInclude Include="freopenTest.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
