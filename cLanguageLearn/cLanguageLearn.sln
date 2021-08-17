@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c++dataStucture", "c++dataS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structTest", "structTest\structTest.vcxproj", "{A871405D-2F71-4852-855B-BC6A9D520717}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "virtualLinearList", "virtualLinearList\virtualLinearList.vcxproj", "{E4AB302B-F567-47CE-B499-658401A3A184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{A871405D-2F71-4852-855B-BC6A9D520717}.Release|x64.Build.0 = Release|x64
 		{A871405D-2F71-4852-855B-BC6A9D520717}.Release|x86.ActiveCfg = Release|Win32
 		{A871405D-2F71-4852-855B-BC6A9D520717}.Release|x86.Build.0 = Release|Win32
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Debug|x64.ActiveCfg = Debug|x64
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Debug|x64.Build.0 = Debug|x64
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Debug|x86.Build.0 = Debug|Win32
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Release|x64.ActiveCfg = Release|x64
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Release|x64.Build.0 = Release|x64
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Release|x86.ActiveCfg = Release|Win32
+		{E4AB302B-F567-47CE-B499-658401A3A184}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +171,7 @@ Global
 		{FB6751A8-8647-4793-86E6-7E8DB24A7C23} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
 		{D1BE5D81-120C-4A72-9DE2-A6D1F3F0BE16} = {9516D617-81D0-43DB-B5EF-DCF734320BDF}
 		{A871405D-2F71-4852-855B-BC6A9D520717} = {9516D617-81D0-43DB-B5EF-DCF734320BDF}
+		{E4AB302B-F567-47CE-B499-658401A3A184} = {9516D617-81D0-43DB-B5EF-DCF734320BDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B90A447-1120-4DB2-A77A-1F1A913D5AD8}
