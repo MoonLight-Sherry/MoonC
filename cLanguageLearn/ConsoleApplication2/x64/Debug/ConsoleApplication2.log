@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+  swap.h
+  swap.cpp
+  Generating Code...
+x64\Debug\swap.obj : warning LNK4042: object specified more than once; extras ignored
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol "void __cdecl swap(int *,int *)" (?swap@@YAXPEAH0@Z) referenced in function main
+Y:\Java\csLearn\MoonC\cLanguageLearn\x64\Debug\swap.exe : fatal error LNK1120: 1 unresolved externals
