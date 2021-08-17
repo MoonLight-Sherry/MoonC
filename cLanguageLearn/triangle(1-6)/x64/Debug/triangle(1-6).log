@@ -1,0 +1,6 @@
+﻿  isRightAngle.cpp
+y:\java\cslearn\moonc\clanguagelearn\triangle(1-6)\isrightangle.cpp(7): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  isTriangle.cpp
+  triangle(1-6).cpp
+  Generating Code...
+  triangle(1-6).vcxproj -> Y:\Java\csLearn\MoonC\cLanguageLearn\x64\Debug\triangle(1-6).exe

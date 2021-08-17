@@ -21,6 +21,9 @@
     <ClCompile Include="strlen.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="AnyType.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="strlen.h">
