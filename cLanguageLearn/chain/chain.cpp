@@ -7,7 +7,7 @@ class chain
 {
 public:
 	chain(int initialCapocity = 10);
-	chain(cosnt chain<T> &);
+	chain(cosnt chain<T>& theList);
 	~const();
 
 
@@ -18,7 +18,14 @@ protected:
 
 
 template<class T>
-chain<T> ::chain(const chain<T>& theList)
+chain<T>::chain(int initialCapacity)
+{
+
+}
+
+
+template<class T>
+chain<T>::chain(const chain<T>& theList)
 {
 
 }
