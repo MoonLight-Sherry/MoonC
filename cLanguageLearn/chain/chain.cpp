@@ -7,7 +7,7 @@ class chain
 {
 public:
 	chain(int initialCapocity = 10);
-	chain(cosnt chain<T>& theList);
+	chain(const chain<T>& theList);
 	~const();
 
 
