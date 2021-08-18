@@ -36,6 +36,7 @@
 *.tlog
 *.pdb
 *.idb
+*.db
 *.ilk
 
 ## Ignore Visual Studio temporary files, build results, and

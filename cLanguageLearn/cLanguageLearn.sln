@@ -26,9 +26,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPlusOneself", "TestPlusOneself\TestPlusOneself.vcxproj", "{CF9E5C06-C945-44D4-B4EB-4D57A95BC0AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "algorithm competition", "algorithm competition", "{C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}"
-	ProjectSection(SolutionItems) = preProject
-		setUsage(eg5-3)\stackSet(eg5-5).cpp = setUsage(eg5-3)\stackSet(eg5-5).cpp
-	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kickdown(3-11)", "Kickdown(3-11)\Kickdown(3-11).vcxproj", "{FB6751A8-8647-4793-86E6-7E8DB24A7C23}"
 EndProject
@@ -47,6 +44,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "setUsage(eg5-3)", "setUsage(eg5-3)\setUsage(eg5-3).vcxproj", "{7E868EAD-DF82-4B66-B784-83513E48B788}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stackSet(eg5-5)", "stackSet\stackSet.vcxproj", "{7C81ABCE-0ADE-454D-9534-DF2C72329277}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chain", "chain\chain.vcxproj", "{5ABFCB9D-6C77-43BC-894B-60F69282A096}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -192,6 +191,14 @@ Global
 		{7C81ABCE-0ADE-454D-9534-DF2C72329277}.Release|x64.Build.0 = Release|x64
 		{7C81ABCE-0ADE-454D-9534-DF2C72329277}.Release|x86.ActiveCfg = Release|Win32
 		{7C81ABCE-0ADE-454D-9534-DF2C72329277}.Release|x86.Build.0 = Release|Win32
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Debug|x64.ActiveCfg = Debug|x64
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Debug|x64.Build.0 = Debug|x64
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Debug|x86.ActiveCfg = Debug|Win32
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Debug|x86.Build.0 = Debug|Win32
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Release|x64.ActiveCfg = Release|x64
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Release|x64.Build.0 = Release|x64
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Release|x86.ActiveCfg = Release|Win32
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -214,6 +221,7 @@ Global
 		{2402F0D0-9773-4CB3-BBE3-F90191981E87} = {6CE8A937-0631-4751-98F2-2AD24F2C6761}
 		{7E868EAD-DF82-4B66-B784-83513E48B788} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
 		{7C81ABCE-0ADE-454D-9534-DF2C72329277} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
+		{5ABFCB9D-6C77-43BC-894B-60F69282A096} = {9516D617-81D0-43DB-B5EF-DCF734320BDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B90A447-1120-4DB2-A77A-1F1A913D5AD8}
