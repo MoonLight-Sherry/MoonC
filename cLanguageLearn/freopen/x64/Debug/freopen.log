@@ -1,1 +1,8 @@
-﻿Y:\Java\csLearn\MoonC\cLanguageLearn\freopen\freopen.vcxproj : error MSB4025: The project file could not be loaded. Could not find file 'Y:\Java\csLearn\MoonC\cLanguageLearn\freopen\freopen.vcxproj'.
+﻿  TemplateClass.cpp
+  doubleError.cpp
+  freopen.cpp
+  freopenTest.cpp
+  stringLearn.cpp
+  tem[late.cpp
+  Generating Code...
+  freopen.vcxproj -> Y:\Java\csLearn\MoonC\cLanguageLearn\x64\Debug\freopen.exe

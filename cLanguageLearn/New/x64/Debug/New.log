@@ -1,1 +1,4 @@
-﻿Y:\Java\csLearn\MoonC\cLanguageLearn\New\New.vcxproj : error MSB4025: The project file could not be loaded. Could not find file 'Y:\Java\csLearn\MoonC\cLanguageLearn\New\New.vcxproj'.
+﻿  New.cpp
+  myclass.cpp
+  Generating Code...
+  New.vcxproj -> Y:\Java\csLearn\MoonC\cLanguageLearn\x64\Debug\New.exe

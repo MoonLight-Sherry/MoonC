@@ -1,1 +1,7 @@
-﻿Y:\Java\csLearn\MoonC\cLanguageLearn\TestPlusOneself\TestPlusOneself.vcxproj : error MSB4025: The project file could not be loaded. Could not find file 'Y:\Java\csLearn\MoonC\cLanguageLearn\TestPlusOneself\TestPlusOneself.vcxproj'.
+﻿  Book.cpp
+  NewDeleteTest.cpp
+  TestPlusOneself.cpp
+  VirtualTest.cpp
+  initialClassLearn.cpp
+  Generating Code...
+  TestPlusOneself.vcxproj -> Y:\Java\csLearn\MoonC\cLanguageLearn\x64\Debug\TestPlusOneself.exe
