@@ -47,7 +47,7 @@ int  main()
 
 	cout << "get results" << endl;
 
-	for (vector<int> result : equivResults)
+	for (const vector<int>& result : equivResults)
 	{
 		for (const int& element : result)
 		{
