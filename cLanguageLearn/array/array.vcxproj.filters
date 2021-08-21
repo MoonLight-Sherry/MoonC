@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="binSort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\chain\chain.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\chain\chainNode.cpp">
+    <ClCompile Include="irregularArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
