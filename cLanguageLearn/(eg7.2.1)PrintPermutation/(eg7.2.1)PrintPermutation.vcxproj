@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CBD2E2DA-2E0F-42DF-9AA9-0F05A5CB890E}</ProjectGuid>
+    <ProjectGuid>{B7A54516-67EC-4769-95CC-CBF1E17FEC04}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My504ForeignExchange</RootNamespace>
+    <RootNamespace>eg721PrintPermutation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,10 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="%285-04%29ForeignExchange-mapP.cpp" />
-    <ClCompile Include="%285-04%29ForeignExchange-sortP.cpp" />
-    <ClCompile Include="%285-04%29ForeignExchange-sort2P.cpp" />
-    <ClCompile Include="(5-04)ForeignExchange-map2P.cpp" />
+    <ClCompile Include="(eg7.2.1)PrintPermutation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,16 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="%285-04%29ForeignExchange-mapP.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="%285-04%29ForeignExchange-sortP.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="%285-04%29ForeignExchange-sort2P.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="(5-04)ForeignExchange-map2P.cpp">
+    <ClCompile Include="(eg6-3)MatrixChainMultiplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

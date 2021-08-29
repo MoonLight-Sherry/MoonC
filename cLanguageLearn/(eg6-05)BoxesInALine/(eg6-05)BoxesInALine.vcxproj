@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CBD2E2DA-2E0F-42DF-9AA9-0F05A5CB890E}</ProjectGuid>
+    <ProjectGuid>{A269A404-5A81-41B3-B74F-C3E7C21C85DF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My504ForeignExchange</RootNamespace>
+    <RootNamespace>eg605BoxesInALine</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,10 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="%285-04%29ForeignExchange-mapP.cpp" />
-    <ClCompile Include="%285-04%29ForeignExchange-sortP.cpp" />
-    <ClCompile Include="%285-04%29ForeignExchange-sort2P.cpp" />
-    <ClCompile Include="(5-04)ForeignExchange-map2P.cpp" />
+    <ClCompile Include="(eg6-05)BoxesInALine.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
