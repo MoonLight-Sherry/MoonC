@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="queue.cpp">
+    <ClCompile Include="binSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="priorityQueue.cpp">
+    <ClCompile Include="..\chain\chain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\chain\chainNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

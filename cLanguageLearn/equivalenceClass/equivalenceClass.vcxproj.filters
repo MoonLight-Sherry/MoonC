@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="queue.cpp">
+    <ClCompile Include="equiveClssB.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="priorityQueue.cpp">
+    <ClCompile Include="equivalentclassP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="queue.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="priorityQueue.cpp">
+    <ClCompile Include="irregularArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

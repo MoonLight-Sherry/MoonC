@@ -20,11 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{FB6751A8-8647-4793-86E6-7E8DB24A7C23}</ProjectGuid>
+    <ProjectGuid>{E5B6AA95-4536-4024-A5E0-5C3A6E8BEE67}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Kickdown311</RootNamespace>
+    <RootNamespace>My51AlignmentOfCode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>(3-11)Kickdown</ProjectName>
+    <ProjectName>(5-01)AlignmentOfCode</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,10 +152,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Kickdown(3-11).cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Kickdown.h" />
+    <ClCompile Include="%285-1%29AlignmentOfCodeW.cpp" />
+    <ClCompile Include="AlignmentOfCodeP.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{FB6751A8-8647-4793-86E6-7E8DB24A7C23}</ProjectGuid>
+    <ProjectGuid>{CBD2E2DA-2E0F-42DF-9AA9-0F05A5CB890E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Kickdown311</RootNamespace>
+    <RootNamespace>My504ForeignExchange</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>(3-11)Kickdown</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,10 +151,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Kickdown(3-11).cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Kickdown.h" />
+    <ClCompile Include="%285-04%29ForeignExchange-mapP.cpp" />
+    <ClCompile Include="%285-04%29ForeignExchange-sortP.cpp" />
+    <ClCompile Include="%285-04%29ForeignExchange-sort2P.cpp" />
+    <ClCompile Include="(5-04)ForeignExchange-map2P.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

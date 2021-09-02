@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="queue.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="priorityQueue.cpp">
+    <ClCompile Include="(eg7.2.1)PrintPermutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="queue.cpp">
+    <ClCompile Include="AlignmentOfCodeP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="priorityQueue.cpp">
+    <ClCompile Include="%285-1%29AlignmentOfCodeW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
