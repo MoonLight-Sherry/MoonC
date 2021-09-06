@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1585
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanf", "cLanguageLearn\cLanguageLearn.vcxproj", "{8D514AE1-82C4-4D1D-92E8-C5D5CA5C4CC0}"
 EndProject
@@ -80,6 +80,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix", "matrix\matrix.vcxproj", "{C5C39011-E48F-41FC-AF72-DFED9CF5B312}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(eg6-3)MatrixChainMultiplication", "(eg6-3)MatrixChainMultiplication\(eg6-3)MatrixChainMultiplication.vcxproj", "{E6CB2086-8C18-481E-B322-8D0F01D3FB88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(eg7.2.1)PrintPermutation", "(eg7.2.1)PrintPermutation\(eg7.2.1)PrintPermutation.vcxproj", "{B7A54516-67EC-4769-95CC-CBF1E17FEC04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(eg6-05)BoxesInALine", "(eg6-05)BoxesInALine\(eg6-05)BoxesInALine.vcxproj", "{A269A404-5A81-41B3-B74F-C3E7C21C85DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(eg6-06)DropingBalls", "(eg6-06)DropingBalls\(eg6-06)DropingBalls.vcxproj", "{3B416375-E1D5-4874-B60E-986E3B2D8C70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -353,6 +359,30 @@ Global
 		{E6CB2086-8C18-481E-B322-8D0F01D3FB88}.Release|x64.Build.0 = Release|x64
 		{E6CB2086-8C18-481E-B322-8D0F01D3FB88}.Release|x86.ActiveCfg = Release|Win32
 		{E6CB2086-8C18-481E-B322-8D0F01D3FB88}.Release|x86.Build.0 = Release|Win32
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Debug|x64.ActiveCfg = Debug|x64
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Debug|x64.Build.0 = Debug|x64
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Debug|x86.Build.0 = Debug|Win32
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Release|x64.ActiveCfg = Release|x64
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Release|x64.Build.0 = Release|x64
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Release|x86.ActiveCfg = Release|Win32
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04}.Release|x86.Build.0 = Release|Win32
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Debug|x64.ActiveCfg = Debug|x64
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Debug|x64.Build.0 = Debug|x64
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Debug|x86.Build.0 = Debug|Win32
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Release|x64.ActiveCfg = Release|x64
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Release|x64.Build.0 = Release|x64
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Release|x86.ActiveCfg = Release|Win32
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF}.Release|x86.Build.0 = Release|Win32
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Debug|x64.ActiveCfg = Debug|x64
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Debug|x64.Build.0 = Debug|x64
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Debug|x86.Build.0 = Debug|Win32
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Release|x64.ActiveCfg = Release|x64
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Release|x64.Build.0 = Release|x64
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Release|x86.ActiveCfg = Release|Win32
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -393,6 +423,9 @@ Global
 		{CBD2E2DA-2E0F-42DF-9AA9-0F05A5CB890E} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
 		{C5C39011-E48F-41FC-AF72-DFED9CF5B312} = {9E84650F-95B1-4318-A6DF-39B143692DDD}
 		{E6CB2086-8C18-481E-B322-8D0F01D3FB88} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
+		{B7A54516-67EC-4769-95CC-CBF1E17FEC04} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
+		{A269A404-5A81-41B3-B74F-C3E7C21C85DF} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
+		{3B416375-E1D5-4874-B60E-986E3B2D8C70} = {C9C030D5-E9C8-4BBD-8777-3DE385AFAB1C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B90A447-1120-4DB2-A77A-1F1A913D5AD8}

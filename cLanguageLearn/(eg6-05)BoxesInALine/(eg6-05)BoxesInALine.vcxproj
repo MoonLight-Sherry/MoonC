@@ -151,7 +151,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="(eg6-05)BoxesInALine.cpp" />
+    <ClCompile Include="(eg6-05)BoxesInALineB.cpp" />
+    <ClCompile Include="(eg6-05)BoxesInALineP.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
