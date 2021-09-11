@@ -1,4 +1,12 @@
 ﻿  AnyType.cpp
-y:\java\cslearn\moonc\clanguagelearn\strlen\anytype.cpp(17): error C2872: 'array': ambiguous symbol
-  y:\java\cslearn\moonc\clanguagelearn\strlen\anytype.cpp(6): note: could be 'array'
+d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\anytype.cpp(17): error C2872: 'array': ambiguous symbol
+  d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\anytype.cpp(6): note: could be 'array'
   c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(512): note: or       'std::array'
+  stringLen.cpp
+  strlen.cpp
+d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\strlen.cpp(10): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\strlen.cpp(11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\strlen.cpp(11): note: consider using '%lld' in the format string
+  d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\strlen.cpp(11): note: consider using '%Id' in the format string
+  d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\strlen\strlen.cpp(11): note: consider using '%I64d' in the format string
+  Generating Code...
