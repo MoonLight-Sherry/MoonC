@@ -15,16 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="(eg7.3.1)增量构造法.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\(eg7.2.1)PrintPermutation\增量排序.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="位向量法.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="二进制法.cpp">
+    <ClCompile Include="%28eg7.5%29八数码问题.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

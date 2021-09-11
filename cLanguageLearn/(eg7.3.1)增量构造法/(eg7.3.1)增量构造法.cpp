@@ -9,7 +9,7 @@ using namespace std;
 
 int B[100];
 int A[100];
-int C[100];
+int C[100]; 
 int P[20][10000][20];
 
 void print_subset(int n, int *B, int cur)
