@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B94036CE-B4A3-494D-AC36-7974202822E6}</ProjectGuid>
+    <ProjectGuid>{32F93753-B667-4E3B-9614-544C19A3677B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>binSort</RootNamespace>
+    <RootNamespace>eg75路径寻找问题</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>binSortW</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,13 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\chain\chain.cpp" />
-    <ClCompile Include="..\chain\chainNode.cpp" />
-    <ClCompile Include="binSort.cpp" />
-    <ClCompile Include="Candy.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Candy.h" />
+    <ClCompile Include="%28eg7.5%29八数码问题.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

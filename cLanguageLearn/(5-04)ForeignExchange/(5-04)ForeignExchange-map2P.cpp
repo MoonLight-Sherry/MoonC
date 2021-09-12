@@ -7,12 +7,12 @@ int N, a, b;
 
 int main()
 {
-	while (scanf("%d", &N) != -1 && N != 0) {
+	while (scanf_s("%d", &N) != -1 && N != 0) {
 		std::map<int, int> all;
 
 		while (N--) 
 		{
-			scanf("%d%d", &a, &b);
+			scanf_s("%d%d", &a, &b);
 			++all[a], --all[b];
 		}
 

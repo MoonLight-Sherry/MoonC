@@ -6,12 +6,12 @@ int all[1003][1003];//a到b的人数
 
 int main() {
 	//freopen("in.txt", "r", stdin);
-	while (scanf("%d", &N) != -1 && N != 0) {
+	while (scanf_s("%d", &N) != -1 && N != 0) {
 		memset(all, 0, sizeof(all));
 
 		while (N--)
 		{
-			scanf("%d%d", &a, &b);
+			scanf_s("%d%d", &a, &b);
 			++all[a][b], --all[b][a];
 		}
 

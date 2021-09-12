@@ -15,22 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="binSort.cpp">
+    <ClCompile Include="(eg7.3.1)增量构造法.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\chain\chain.cpp">
+    <ClCompile Include="..\(eg7.2.1)PrintPermutation\增量排序.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\chain\chainNode.cpp">
+    <ClCompile Include="位向量法.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Candy.cpp">
+    <ClCompile Include="二进制法.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Candy.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
