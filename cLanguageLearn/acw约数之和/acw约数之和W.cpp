@@ -40,6 +40,6 @@ int main()
 	//C = pow(A,B);//幂的运算
 	if (factorNumber == 1) { primeFactor.push_back(A); }
 	S = calculateSum(primeFactor, B);
-	cout << S;
+	cout << S%9901;
 	return 0;
 }

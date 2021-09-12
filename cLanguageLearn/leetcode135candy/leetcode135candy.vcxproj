@@ -20,10 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B712CD32-C87D-42F1-B05F-C3F7A5F4FF8E}</ProjectGuid>
+    <ProjectGuid>{571D801C-348C-455C-B4D6-B185B7C88252}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>acw约数之和</RootNamespace>
+    <RootNamespace>leetcode135candy</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>leetcode135.candy</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -151,8 +152,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="acw约数之和W.cpp" />
-    <ClCompile Include="约数之和P.cpp" />
+    <ClCompile Include="leetcode135candyW.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="acw约数之和W.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="约数之和P.cpp">
+    <ClCompile Include="leetcode135candyW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
