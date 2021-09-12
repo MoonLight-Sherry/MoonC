@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="(eg6-05)BoxesInALine.cpp">
+    <ClCompile Include="(eg6-05)BoxesInALineB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="(eg6-05)BoxesInALineP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

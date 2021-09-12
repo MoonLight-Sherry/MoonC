@@ -1,11 +1,7 @@
-﻿  initialClassLearn.cpp
-d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\testplusoneself\box.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  Book.cpp
-d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\testplusoneself\book.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\testplusoneself\book.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+﻿  Book.cpp
   NewDeleteTest.cpp
   TestPlusOneself.cpp
   VirtualTest.cpp
-d:\computerleearn\clanguagelearn\visualstudio\moonc\clanguagelearn\testplusoneself\virtualtest.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  initialClassLearn.cpp
   Generating Code...
-  TestPlusOneself.vcxproj -> D:\computerLeearn\cLanguageLearn\VisualStudio\MoonC\cLanguageLearn\x64\Debug\TestPlusOneself.exe
+  TestPlusOneself.vcxproj -> Y:\Java\csLearn\MoonC\cLanguageLearn\x64\Debug\TestPlusOneself.exe
