@@ -28,7 +28,7 @@ ostream& operator<<(ostream& out, studentRecord& x)
 	return out;
 }
 
-void binSort(list<studentRecord>& theList, int range)
+void binSort(list<studentRecord>& theList, int range)wq
 {
 	list<studentRecord>* bin;
 	bin = new list<studentRecord>[range + 1];

@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D80FF11F-850B-41FC-9BB7-98A6AE1873E4}</ProjectGuid>
+    <ProjectGuid>{9380FEA2-4D87-4D3C-BC40-57FD2764FE74}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>search</RootNamespace>
+    <RootNamespace>scanfMultiply</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>sort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,12 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bubbleSort.cpp" />
-    <ClCompile Include="insertionSort.cpp" />
-    <ClCompile Include="mergeSort.cpp" />
-    <ClCompile Include="quickSelection.cpp" />
-    <ClCompile Include="quickSort.cpp" />
-    <ClCompile Include="selectionSort.cpp" />
+    <ClCompile Include="scanfMultiply.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

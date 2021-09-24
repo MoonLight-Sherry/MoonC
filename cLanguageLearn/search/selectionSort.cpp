@@ -18,7 +18,7 @@ void selection_sort(vector<int> &nums, int numbers)
 	}
 }
 
-
+/*
 int main()
 {
 	vector<int> testArray = { 1, 5, 8, 5 };
@@ -29,3 +29,4 @@ int main()
 	}
 	return 0;
 }
+*/
